@@ -1,0 +1,11 @@
+C:\Users\unium\source\repos\ConsoleApp64\ConsoleApp64\bin\Debug\netcoreapp2.1\ConsoleApp64.deps.json
+C:\Users\unium\source\repos\ConsoleApp64\ConsoleApp64\bin\Debug\netcoreapp2.1\ConsoleApp64.runtimeconfig.json
+C:\Users\unium\source\repos\ConsoleApp64\ConsoleApp64\bin\Debug\netcoreapp2.1\ConsoleApp64.runtimeconfig.dev.json
+C:\Users\unium\source\repos\ConsoleApp64\ConsoleApp64\bin\Debug\netcoreapp2.1\ConsoleApp64.dll
+C:\Users\unium\source\repos\ConsoleApp64\ConsoleApp64\bin\Debug\netcoreapp2.1\ConsoleApp64.pdb
+C:\Users\unium\source\repos\ConsoleApp64\ConsoleApp64\obj\Debug\netcoreapp2.1\ConsoleApp64.csprojAssemblyReference.cache
+C:\Users\unium\source\repos\ConsoleApp64\ConsoleApp64\obj\Debug\netcoreapp2.1\ConsoleApp64.csproj.CoreCompileInputs.cache
+C:\Users\unium\source\repos\ConsoleApp64\ConsoleApp64\obj\Debug\netcoreapp2.1\ConsoleApp64.AssemblyInfoInputs.cache
+C:\Users\unium\source\repos\ConsoleApp64\ConsoleApp64\obj\Debug\netcoreapp2.1\ConsoleApp64.AssemblyInfo.cs
+C:\Users\unium\source\repos\ConsoleApp64\ConsoleApp64\obj\Debug\netcoreapp2.1\ConsoleApp64.dll
+C:\Users\unium\source\repos\ConsoleApp64\ConsoleApp64\obj\Debug\netcoreapp2.1\ConsoleApp64.pdb
